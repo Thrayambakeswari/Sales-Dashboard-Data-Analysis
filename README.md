@@ -16,4 +16,5 @@ This project transforms static internet sales reports into interactive Power BI 
 ## Process
 Clean the data using SQL server
 create dashboard with cleaned data using power bi
-<a href = "https://github.com/Thrayambakeswari/Sales-Dashboard-Data-Analysis/blob/main/Sales.png"> Image </a>
+![image](https://github.com/user-attachments/assets/038bdf8f-cc5f-47d9-8ed9-09a1a1f61788)
+
