@@ -13,3 +13,7 @@ This project transforms static internet sales reports into interactive Power BI 
 5. Sales Growth Over Time – Shows trends in monthly/quarterly sales.
 6. Sales by Salesperson – Measures individual performance across products and customers.
 <a href = "https://github.com/Thrayambakeswari/Sales-Dashboard-Data-Analysis/blob/main/Sales%20Dashboard.pbix"> View Sales Dashboard </a>
+## Process
+Clean the data using SQL server
+create dashboard with cleaned data using power bi
+<a href = "https://github.com/Thrayambakeswari/Sales-Dashboard-Data-Analysis/blob/main/Sales.png"> Image </a>
